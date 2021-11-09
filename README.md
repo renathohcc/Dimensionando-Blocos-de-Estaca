@@ -1,16 +1,29 @@
-# dim_blocos
+# Dim Blocos
 
 Minha planilha do TCC transformada em APP
 
-## Getting Started
+## Tecnologias utilizadas
 
-This project is a starting point for a Flutter application.
+O app foi desenvolvido utilizando o framework Flutter, em 2020. No momento estou atualizando o projeto, melhorando o código e preparando para lançamento na Google Play Store.
 
-A few resources to get you started if this is your first Flutter project:
+## Objetivos do Aplicativo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+A principal meta desta aplicação é dimensionar blocos sob duas estacas, utilizando o método de Blevot & Fremy.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Experiências Obtidas
+
+Este projeto pessoal me proporcionou aprendizado enorme em Flutter, onde posso listar:
+
+- Design de múltiplas telas;
+- Navegação entre telas e utilização de rotas;
+- Customização de widgets;
+- Utilização de assests (imagens e fonts customizadas);
+
+Objetivos da atualização:
+
+- Clean Code;
+- Utilizar principios de Design Pattern;
+- Deixar o código mais simples através de Classes, Construtores, Operadores ternários;
+- Melhorar a interface do usuário;
+
+
